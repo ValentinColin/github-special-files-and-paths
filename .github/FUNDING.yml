@@ -1,5 +1,6 @@
 # Platform:                                           Syntax:
 # LFX Mentorship (formerly CommunityBridge)           community_bridge: PROJECT-NAME
+# LFX Crowdfunding                                    lfx_crowdfunding: PROJECT-NAME
 # GitHub Sponsors (need to be registered)             github: USERNAME or github: [USERNAME, USERNAME, USERNAME, USERNAME]
 # IssueHunt                                           issuehunt: USERNAME
 # Ko-fi                                               ko_fi: USERNAME
@@ -19,6 +20,6 @@
 # PHP                 packagist
 # C#                  nuget
 
-# github: ValentinColin  # need to be registred in github sponsors
+# github: ValentinColin
 custom: 
   - https://paypal.me/ValentinColin408
