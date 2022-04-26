@@ -1,0 +1,8 @@
+{
+    "name": "Workflow template CI",
+    "description": "OTemplate CI starter workflow.",
+    "iconName": "example-icon",
+    "categories": [
+        "Go"
+    ],
+}
