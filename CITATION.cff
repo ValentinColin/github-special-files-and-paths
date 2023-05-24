@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "An example of citation conf."
+authors:
+- family-names: "Colin"
+  given-names: "Valentin"
+title: "github-special-files-and-paths"
+version: 1.0.0
+doi: 10.5281/zenodo.1234
+date-released: 2023-05-24
+url: "https://github.com/ValentinColin/github-special-files-and-paths"
